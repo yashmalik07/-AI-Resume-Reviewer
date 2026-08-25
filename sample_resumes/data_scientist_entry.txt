@@ -1,0 +1,32 @@
+Priya Sharma
+New York, NY | (555) 345-6789 | priya.sharma@dataemail.com
+linkedin.com/in/priyasharma-ds | github.com/priyasharma-ai
+
+CAREER OBJECTIVE
+Passionate Data Scientist and AI practitioner with strong foundation in Machine Learning, Natural Language Processing, and statistical modeling. Seeking an entry-level Data Scientist or AI Engineer position to build impactful predictive solutions.
+
+TECHNICAL SKILLS
+• Programming & Querying: Python, R, SQL, Bash
+• Machine Learning & AI: Scikit-learn, PyTorch, TensorFlow, NLP, Computer Vision, Transformers, LLMs, Hugging Face
+• Data Analysis & Viz: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Tableau
+• Tools & Platforms: Git, Docker, Jupyter Notebook, Google Cloud Platform (GCP)
+• Soft Skills: Critical Thinking, Communication, Teamwork, Analytical Mindset
+
+ACADEMIC PROJECTS
+AI-Powered Resume Screener & Semantic Ranker (2023)
+• Developed NLP pipeline using Python, SpaCy, and Transformers to rank resumes against job descriptions with 88% accuracy.
+• Deployed interactive dashboard with Streamlit and Docker on GCP Cloud Run.
+
+Customer Churn Prediction Engine (2023)
+• Built gradient-boosted classification models (XGBoost, LightGBM) on 500k customer records, improving churn detection recall by 28%.
+• Performed extensive feature engineering and exploratory data analysis using Pandas and Seaborn.
+
+INTERNSHIP EXPERIENCE
+Data Science Intern | Data Alcott Systems (Jan 2024 - Present)
+• Formulated customer segmentation models using K-Means clustering and PCA on transaction data.
+• Automated weekly data extraction and cleaning workflows, saving 8 hours of manual data processing per week.
+
+EDUCATION
+B.Tech in Computer Science & Engineering | XYZ Institute of Technology (2020 - 2024)
+• CGPA: 8.9/10 | Coursework: Machine Learning, Deep Learning, Data Structures, Linear Algebra
+

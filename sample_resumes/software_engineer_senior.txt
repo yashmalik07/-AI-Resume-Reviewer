@@ -1,0 +1,34 @@
+Alex Mercer
+San Francisco, CA | (555) 019-2834 | alex.mercer@email.com
+linkedin.com/in/alexmercer-dev | github.com/alexmercer
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Software Engineer with 7+ years of experience building high-throughput distributed systems, microservices architectures, and cloud-native backends. Proven track record of architecting scalable applications on AWS, mentoring junior engineers, and driving engineering excellence.
+
+CORE SKILLS
+- Programming: Python, Java, Go, TypeScript, SQL, Bash
+- Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD, Linux, Jenkins
+- Databases: PostgreSQL, Redis, MongoDB, Snowflake
+- Frameworks & Tools: FastAPI, Spring Boot, React, Git, Jira, Agile, Microservices
+- Soft Skills: Leadership, Problem Solving, Cross-functional Collaboration, Mentorship
+
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer | CloudScale Technologies (2021 - Present)
+• Architected and deployed microservices backend processing 15M daily requests with 99.99% uptime using Python, FastAPI, and AWS ECS.
+• Optimized PostgreSQL query performance and Redis caching layers, reducing p99 API response latency by 42%.
+• Spearheaded container migration with Docker and Kubernetes, reducing deployment cycle times by 65%.
+• Mentored a team of 6 engineers across sprint planning, code reviews, and TDD best practices.
+
+Software Engineer | FinTech Innovations (2018 - 2021)
+• Engineered real-time fraud detection pipeline using Java, Kafka, and Spring Boot, saving $1.2M annually in prevented fraudulent transactions.
+• Streamlined automated CI/CD deployment pipelines with GitHub Actions and Terraform.
+• Collaborated closely with product managers and security teams to achieve SOC 2 compliance.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of California, Berkeley (2014 - 2018)
+• GPA: 3.8/4.0 | Dean's Honors List
+
+KEY PROJECTS & CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate
+• Distributed Task Queue: Open-source Redis-backed async task processor with 1.2k GitHub stars.
+

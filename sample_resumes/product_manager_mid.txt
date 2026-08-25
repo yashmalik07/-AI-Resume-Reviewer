@@ -1,0 +1,26 @@
+Marcus Vance
+Seattle, WA | (555) 789-0123 | marcus.vance@techpm.com | linkedin.com/in/marcusvance-pm
+
+PROFESSIONAL SUMMARY
+Dynamic Technical Product Manager with 4+ years of experience leading cross-functional engineering teams, launching B2B SaaS products, and scaling user engagement. Experienced in data-driven roadmap prioritization, Agile/Scrum delivery, and user lifecycle analytics.
+
+CORE COMPETENCIES
+- Product Strategy: Product Roadmap, A/B Testing, User Research, Wireframing, Sprint Planning
+- Technical & Data: SQL, Python, Tableau, Google Analytics, Postman, REST APIs
+- Methodologies & Tools: Agile, Scrum, Jira, Confluence, Figma
+- Soft Skills: Stakeholder Management, Leadership, Communication, Problem Solving
+
+EXPERIENCE
+Product Manager | NexaTech Solutions (2022 - Present)
+• Led end-to-end development and rollout of self-service onboarding portal, driving a 34% increase in user activation within 90 days.
+• Orchestrated weekly sprint ceremonies with 12 engineers and designers using Agile Scrum methodologies.
+• Spearheaded user feedback discovery sessions with 40+ enterprise clients to prioritize quarterly roadmap features.
+
+Associate Product Manager | VentureLoop (2020 - 2022)
+• Analyzed user drop-off funnels using SQL and Tableau, identifying conversion bottlenecks and improving checkout conversion by 18%.
+• Collaborated with engineering teams to deprecate legacy endpoints and migrate to modern REST APIs.
+
+EDUCATION
+Master of Business Administration (MBA) | Foster School of Business (2018 - 2020)
+Bachelor of Science in Information Systems | Washington State University (2014 - 2018)
+

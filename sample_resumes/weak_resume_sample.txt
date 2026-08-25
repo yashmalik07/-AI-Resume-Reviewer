@@ -1,0 +1,14 @@
+John
+john@test.com
+
+Summary:
+I am looking for a job in software company. I have computer skills.
+
+Experience:
+- Worked on some company tasks and helped with bug fixing.
+- Duties included attending meetings and coding.
+- Handled customer requests when needed.
+
+Skills:
+Computers, MS Word, Internet, hard worker.
+
